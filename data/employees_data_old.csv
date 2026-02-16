@@ -1,0 +1,101 @@
+Employee ID,Email,Name,Department,Role/title,Primary skills,Secondary skills,Experience years,Problem domains handled
+EMP001,vivaan.sharma@example.com,Vivaan Sharma,Engineering,Software Engineer,"React, Kubernetes, Spring Boot","Kafka, Pandas, Scikit-learn, Prometheus",2,EdTech
+EMP002,ananya.iyer@example.com,Ananya Iyer,IT,Frontend Developer,"Terraform, SQL","Pandas, Prometheus, Microservices, ELK",1,FinTech
+EMP003,arjun.banerjee@example.com,Arjun Banerjee,Cloud Ops,Cloud Engineer,"Docker, Kubernetes, Go","Kafka, Scikit-learn, Prometheus",6,AI Products
+EMP004,sneha.mehta@example.com,Sneha Mehta,Data Science,Software Engineer,"Kubernetes, Azure, Terraform","Pandas, CI/CD",4,Healthcare
+EMP005,neha.kapoor@example.com,Neha Kapoor,Engineering,Data Scientist,"Spring Boot, C++, Kubernetes","Prometheus, CI/CD",6,FinTech
+EMP006,reyansh.reddy@example.com,Reyansh Reddy,Data Science,Cloud Engineer,"Node.js, SQL","Scikit-learn, Kafka, GraphQL, Microservices",7,Cybersecurity
+EMP007,ananya.verma@example.com,Ananya Verma,Security,Data Scientist,"Python, Kubernetes, C++","Linux, Prometheus",4,AI Products
+EMP008,ishaan.joshi@example.com,Ishaan Joshi,Data Science,Data Scientist,"Go, Azure, PyTorch","GraphQL, CI/CD, Scikit-learn",9,Telecom
+EMP009,sai.kapoor@example.com,Sai Kapoor,Data Science,Security Analyst,"SQL, Kubernetes, Spring Boot","ELK, Kafka, Redis, NumPy",3,SaaS Platforms
+EMP010,ananya.iyer@example.com,Ananya Iyer,Security,Backend Developer,"Go, TensorFlow, React","CI/CD, Pandas, Redis, Kafka",11,Logistics
+EMP011,diya.chatterjee@example.com,Diya Chatterjee,Engineering,ML Engineer,"AWS, React, Java","CI/CD, Pandas, GraphQL, Kafka",11,Telecom
+EMP012,aarav.mehta@example.com,Aarav Mehta,Security,Data Scientist,"SQL, Go","Pandas, Scikit-learn",6,Banking Systems
+EMP013,aditya.joshi@example.com,Aditya Joshi,Engineering,Backend Developer,"TensorFlow, Kubernetes, Java","NumPy, Kafka",8,Healthcare
+EMP014,pooja.das@example.com,Pooja Das,Security,DevOps Engineer,"GCP, Node.js","CI/CD, Pandas",9,EdTech
+EMP015,aditya.banerjee@example.com,Aditya Banerjee,Data Science,Security Analyst,"Azure, GCP, Node.js","Kafka, Microservices, NumPy",1,AI Products
+EMP016,vivaan.chatterjee@example.com,Vivaan Chatterjee,Security,Data Scientist,"Java, Python","Scikit-learn, Redis, Microservices, Kafka",6,Healthcare
+EMP017,kavya.das@example.com,Kavya Das,Security,Data Scientist,"GCP, Kubernetes, Node.js","NumPy, Scikit-learn",8,SaaS Platforms
+EMP018,arjun.sharma@example.com,Arjun Sharma,IT,Backend Developer,"C++, AWS","Prometheus, ELK, Redis",7,Logistics
+EMP019,ananya.reddy@example.com,Ananya Reddy,Engineering,Data Scientist,"Terraform, Node.js","GraphQL, Prometheus, Scikit-learn",4,Healthcare
+EMP020,pooja.reddy@example.com,Pooja Reddy,Cloud Ops,Frontend Developer,"Python, PyTorch","Redis, Kafka, Microservices, GraphQL",8,EdTech
+EMP021,pooja.joshi@example.com,Pooja Joshi,Cloud Ops,Software Engineer,"Go, Java","CI/CD, ELK, Scikit-learn",12,Telecom
+EMP022,vivaan.joshi@example.com,Vivaan Joshi,Cloud Ops,DevOps Engineer,"TensorFlow, Kubernetes","NumPy, Pandas",6,E-commerce
+EMP023,aditya.kapoor@example.com,Aditya Kapoor,Engineering,QA Engineer,"Python, Node.js","GraphQL, Kafka",4,SaaS Platforms
+EMP024,ananya.das@example.com,Ananya Das,Engineering,Data Scientist,"Spring Boot, Terraform","NumPy, Scikit-learn, Pandas, Linux",11,Logistics
+EMP025,aarav.reddy@example.com,Aarav Reddy,IT,ML Engineer,"Docker, PyTorch, Azure","ELK, Linux, Kafka",10,AI Products
+EMP026,diya.gupta@example.com,Diya Gupta,Engineering,Backend Developer,"Node.js, Spring Boot","Kafka, Microservices, Linux",8,Telecom
+EMP027,arjun.joshi@example.com,Arjun Joshi,Data Science,Frontend Developer,"TensorFlow, Azure","Kafka, GraphQL, CI/CD, Scikit-learn",9,FinTech
+EMP028,ananya.chatterjee@example.com,Ananya Chatterjee,Data Science,ML Engineer,"PyTorch, Kubernetes","Scikit-learn, CI/CD, Pandas, ELK",1,Healthcare
+EMP029,reyansh.joshi@example.com,Reyansh Joshi,Cloud Ops,ML Engineer,"Java, AWS","Scikit-learn, CI/CD",8,Telecom
+EMP030,sai.nair@example.com,Sai Nair,Cloud Ops,Frontend Developer,"Kubernetes, Python","GraphQL, Pandas, Redis, Linux",3,E-commerce
+EMP031,sai.das@example.com,Sai Das,Data Science,Cloud Engineer,"SQL, Kubernetes","Microservices, Kafka, Linux, Prometheus",3,FinTech
+EMP032,reyansh.iyer@example.com,Reyansh Iyer,Cloud Ops,Software Engineer,"PyTorch, Go","Scikit-learn, Microservices, CI/CD",12,Healthcare
+EMP033,ishaan.sharma@example.com,Ishaan Sharma,Cloud Ops,Software Engineer,"React, Kubernetes, C++","Linux, CI/CD, Microservices",11,EdTech
+EMP034,priya.sharma@example.com,Priya Sharma,Cloud Ops,Cloud Engineer,"Spring Boot, Go, Docker","Scikit-learn, Pandas, Prometheus",2,Cybersecurity
+EMP035,arjun.nair@example.com,Arjun Nair,IT,ML Engineer,"Kubernetes, TensorFlow","Linux, Scikit-learn, Prometheus",10,EdTech
+EMP036,aditya.kapoor@example.com,Aditya Kapoor,Data Science,Software Engineer,"Java, Node.js, Go","Scikit-learn, Microservices, Linux, Prometheus",6,AI Products
+EMP037,sai.das@example.com,Sai Das,Data Science,Backend Developer,"TensorFlow, PyTorch, Terraform","Prometheus, CI/CD, Pandas",7,SaaS Platforms
+EMP038,priya.reddy@example.com,Priya Reddy,IT,ML Engineer,"Java, Docker, Azure","Prometheus, NumPy",8,Banking Systems
+EMP039,aditya.chatterjee@example.com,Aditya Chatterjee,IT,Frontend Developer,"AWS, PyTorch, Python","Pandas, NumPy, Linux",4,Cybersecurity
+EMP040,aditya.reddy@example.com,Aditya Reddy,IT,Data Scientist,"Java, GCP","ELK, NumPy",7,AI Products
+EMP041,reyansh.iyer@example.com,Reyansh Iyer,IT,Security Analyst,"Go, Kubernetes, Spring Boot","Redis, Kafka, Prometheus, Microservices",12,Telecom
+EMP042,priya.iyer@example.com,Priya Iyer,Cloud Ops,Software Engineer,"Kubernetes, React","ELK, Pandas",8,AI Products
+EMP043,ananya.iyer@example.com,Ananya Iyer,Security,Security Analyst,"AWS, SQL, C++","ELK, CI/CD, Microservices",9,Banking Systems
+EMP044,priya.patel@example.com,Priya Patel,IT,ML Engineer,"Spring Boot, SQL, Docker","CI/CD, Linux",2,FinTech
+EMP045,priya.patel@example.com,Priya Patel,IT,Data Scientist,"Docker, SQL, Kubernetes","Prometheus, Scikit-learn",8,SaaS Platforms
+EMP046,aarav.banerjee@example.com,Aarav Banerjee,Engineering,Data Scientist,"Go, Azure, GCP","Redis, NumPy, Prometheus, ELK",5,SaaS Platforms
+EMP047,riya.banerjee@example.com,Riya Banerjee,Cloud Ops,Frontend Developer,"GCP, Kubernetes","Prometheus, ELK, Redis",11,SaaS Platforms
+EMP048,aditya.kapoor@example.com,Aditya Kapoor,IT,QA Engineer,"Java, Azure","NumPy, Scikit-learn, Redis",7,FinTech
+EMP049,priya.iyer@example.com,Priya Iyer,Cloud Ops,DevOps Engineer,"Node.js, Terraform","Microservices, ELK, Linux",7,Cybersecurity
+EMP050,aditya.iyer@example.com,Aditya Iyer,Cloud Ops,ML Engineer,"GCP, Java","Pandas, Redis, Linux, Microservices",11,E-commerce
+EMP051,kavya.kapoor@example.com,Kavya Kapoor,Engineering,Data Scientist,"Java, TensorFlow","Microservices, GraphQL",2,AI Products
+EMP052,aarav.roy@example.com,Aarav Roy,IT,QA Engineer,"SQL, Spring Boot, TensorFlow","Kafka, GraphQL, CI/CD, Scikit-learn",10,SaaS Platforms
+EMP053,sneha.patel@example.com,Sneha Patel,Cloud Ops,Data Scientist,"React, Python","CI/CD, NumPy, Kafka, Redis",7,Logistics
+EMP054,neha.joshi@example.com,Neha Joshi,Engineering,Frontend Developer,"Java, C++, Terraform","Kafka, Prometheus, Linux",3,SaaS Platforms
+EMP055,aditya.roy@example.com,Aditya Roy,IT,Frontend Developer,"GCP, React, Terraform","NumPy, CI/CD, Linux, Microservices",8,EdTech
+EMP056,sneha.iyer@example.com,Sneha Iyer,Cloud Ops,Security Analyst,"Java, React, C++","GraphQL, ELK, Microservices",5,Logistics
+EMP057,ishaan.joshi@example.com,Ishaan Joshi,Data Science,ML Engineer,"Terraform, Python","Prometheus, ELK",8,Banking Systems
+EMP058,kavya.patel@example.com,Kavya Patel,Cloud Ops,Software Engineer,"TensorFlow, Kubernetes","Microservices, CI/CD, Linux",9,Logistics
+EMP059,arjun.joshi@example.com,Arjun Joshi,Cloud Ops,Frontend Developer,"SQL, GCP, React","CI/CD, Scikit-learn, Microservices",4,Logistics
+EMP060,arjun.chatterjee@example.com,Arjun Chatterjee,Engineering,Frontend Developer,"Terraform, Kubernetes","ELK, CI/CD, Pandas, NumPy",4,Cybersecurity
+EMP061,vivaan.patel@example.com,Vivaan Patel,IT,Cloud Engineer,"TensorFlow, Java","Pandas, GraphQL, CI/CD, Redis",5,FinTech
+EMP062,vivaan.roy@example.com,Vivaan Roy,Cloud Ops,Backend Developer,"TensorFlow, React","ELK, Linux, GraphQL",8,Healthcare
+EMP063,aditya.das@example.com,Aditya Das,Engineering,Security Analyst,"Spring Boot, TensorFlow, PyTorch","Redis, GraphQL, NumPy, CI/CD",2,Telecom
+EMP064,vivaan.mehta@example.com,Vivaan Mehta,Cloud Ops,Data Scientist,"Azure, GCP, React","NumPy, Prometheus, CI/CD",12,Healthcare
+EMP065,reyansh.sharma@example.com,Reyansh Sharma,IT,Data Scientist,"Spring Boot, GCP, Kubernetes","Pandas, Kafka",7,Banking Systems
+EMP066,ananya.iyer@example.com,Ananya Iyer,Security,QA Engineer,"Python, Kubernetes, Docker","CI/CD, ELK, Kafka, Microservices",11,AI Products
+EMP067,aditya.sharma@example.com,Aditya Sharma,IT,Security Analyst,"React, PyTorch","CI/CD, GraphQL",3,Cybersecurity
+EMP068,kavya.reddy@example.com,Kavya Reddy,Security,ML Engineer,"Kubernetes, React, SQL","Prometheus, CI/CD, Pandas",2,AI Products
+EMP069,aarav.iyer@example.com,Aarav Iyer,Engineering,Security Analyst,"Node.js, Java, Python","Scikit-learn, NumPy",11,Cybersecurity
+EMP070,kavya.verma@example.com,Kavya Verma,Security,Software Engineer,"GCP, Node.js","ELK, CI/CD, GraphQL, Prometheus",8,Logistics
+EMP071,riya.chatterjee@example.com,Riya Chatterjee,Cloud Ops,Cloud Engineer,"Kubernetes, C++, Spring Boot","Prometheus, ELK, CI/CD",9,E-commerce
+EMP072,neha.nair@example.com,Neha Nair,Cloud Ops,Backend Developer,"Node.js, AWS, Python","Pandas, Redis, Scikit-learn",1,EdTech
+EMP073,sai.roy@example.com,Sai Roy,Security,Cloud Engineer,"Azure, Go, Java","CI/CD, Pandas",8,Banking Systems
+EMP074,ishaan.chatterjee@example.com,Ishaan Chatterjee,Engineering,Software Engineer,"AWS, Docker","Redis, Pandas, Prometheus, Kafka",2,Banking Systems
+EMP075,ishaan.reddy@example.com,Ishaan Reddy,Engineering,DevOps Engineer,"TensorFlow, Node.js, SQL","Prometheus, ELK, NumPy",9,FinTech
+EMP076,aarav.roy@example.com,Aarav Roy,Cloud Ops,Data Scientist,"Spring Boot, Docker","Linux, Pandas, CI/CD",12,Cybersecurity
+EMP077,riya.reddy@example.com,Riya Reddy,Security,QA Engineer,"Azure, Node.js","Linux, Scikit-learn, Pandas",6,EdTech
+EMP078,sai.reddy@example.com,Sai Reddy,IT,Security Analyst,"C++, Java","ELK, Prometheus, NumPy",1,FinTech
+EMP079,sai.verma@example.com,Sai Verma,Security,Cloud Engineer,"Azure, Python","ELK, Redis, GraphQL, Prometheus",8,Cybersecurity
+EMP080,vivaan.mehta@example.com,Vivaan Mehta,Data Science,Security Analyst,"PyTorch, C++","Pandas, Prometheus, Linux, ELK",2,EdTech
+EMP081,arjun.reddy@example.com,Arjun Reddy,Marketing,Recruiter,"Compliance, Recruitment","CRM Tools, Excel",3,Cybersecurity
+EMP082,sneha.nair@example.com,Sneha Nair,HR,HR Manager,"Digital Marketing, Recruitment","Communication, Negotiation",3,EdTech
+EMP083,aditya.mehta@example.com,Aditya Mehta,Operations,Marketing Specialist,"Payroll, Accounting","PowerBI, Negotiation",7,AI Products
+EMP084,ananya.reddy@example.com,Ananya Reddy,Finance,Marketing Specialist,"Payroll, Accounting","PowerBI, CRM Tools",5,E-commerce
+EMP085,neha.banerjee@example.com,Neha Banerjee,Sales,Financial Analyst,"Compliance, Payroll","PowerBI, Excel",10,Cybersecurity
+EMP086,riya.chatterjee@example.com,Riya Chatterjee,Sales,Operations Manager,"Digital Marketing, Sales Strategy","Communication, PowerBI",8,Healthcare
+EMP087,diya.sharma@example.com,Diya Sharma,Finance,Marketing Specialist,"Payroll, Digital Marketing","Presentation, Communication",11,SaaS Platforms
+EMP088,diya.iyer@example.com,Diya Iyer,Marketing,HR Manager,"Payroll, Recruitment","Presentation, CRM Tools",4,AI Products
+EMP089,sai.kapoor@example.com,Sai Kapoor,Marketing,Recruiter,"Compliance, Accounting","Presentation, Communication",2,E-commerce
+EMP090,aditya.roy@example.com,Aditya Roy,Marketing,Marketing Specialist,"Recruitment, Payroll","Communication, PowerBI",6,SaaS Platforms
+EMP091,ananya.chatterjee@example.com,Ananya Chatterjee,Finance,Recruiter,"Accounting, Payroll","Communication, Presentation",3,Cybersecurity
+EMP092,aditya.gupta@example.com,Aditya Gupta,Sales,Financial Analyst,"Compliance, Digital Marketing","Excel, CRM Tools",4,SaaS Platforms
+EMP093,arjun.reddy@example.com,Arjun Reddy,Operations,Financial Analyst,"Recruitment, Sales Strategy","Excel, Communication",6,Cybersecurity
+EMP094,kavya.sharma@example.com,Kavya Sharma,Operations,Marketing Specialist,"Compliance, Digital Marketing","Excel, PowerBI",10,Telecom
+EMP095,diya.kapoor@example.com,Diya Kapoor,Marketing,Sales Executive,"Accounting, Recruitment","Negotiation, CRM Tools",7,Healthcare
+EMP096,arjun.das@example.com,Arjun Das,Finance,HR Manager,"Recruitment, Digital Marketing","CRM Tools, Excel",9,FinTech
+EMP097,sai.nair@example.com,Sai Nair,Sales,Marketing Specialist,"Digital Marketing, Payroll","CRM Tools, Presentation",11,Healthcare
+EMP098,krishna.reddy@example.com,Krishna Reddy,Sales,Sales Executive,"Sales Strategy, Digital Marketing","Excel, Communication",8,EdTech
+EMP099,vivaan.nair@example.com,Vivaan Nair,Marketing,HR Manager,"Compliance, Digital Marketing","Presentation, Communication",5,EdTech
+EMP100,aarav.sharma@example.com,Aarav Sharma,HR,Marketing Specialist,"Recruitment, Accounting","Negotiation, Presentation",6,EdTech

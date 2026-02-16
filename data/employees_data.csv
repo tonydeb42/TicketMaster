@@ -1,0 +1,151 @@
+Employee ID,Email,Name,Department,Role/title,Primary skills,Secondary skills,Experience years,Problem domains handled
+EMP001,aarav.sharma@example.com,Aarav Sharma,Engineering,Backend Developer,"Java, Spring Boot, SQL","Kafka, Redis, Docker",5,FinTech
+EMP002,vivaan.iyer@example.com,Vivaan Iyer,Cloud Ops,DevOps Engineer,"AWS, Kubernetes, Terraform","Prometheus, CI/CD, Linux",7,E-commerce
+EMP003,aditya.banerjee@example.com,Aditya Banerjee,Data Science,ML Engineer,"Python, TensorFlow, PyTorch","Scikit-learn, Pandas, NumPy",4,Healthcare
+EMP004,ananya.joshi@example.com,Ananya Joshi,Security,Security Analyst,"Python, AWS, SQL","ELK, Linux, CI/CD",3,Cybersecurity
+EMP005,arjun.kapoor@example.com,Arjun Kapoor,Engineering,Software Engineer,"React, Node.js, JavaScript","GraphQL, Docker, Redis",2,EdTech
+EMP006,diya.mehta@example.com,Diya Mehta,Data Science,Data Scientist,"Python, R, SQL","Pandas, Matplotlib, Scikit-learn",6,SaaS Platforms
+EMP007,ishaan.nair@example.com,Ishaan Nair,Cloud Ops,Cloud Engineer,"Azure, Docker, Kubernetes","Terraform, Prometheus, ELK",8,Telecom
+EMP008,kavya.patel@example.com,Kavya Patel,Engineering,Frontend Developer,"React, TypeScript, CSS","GraphQL, Webpack, Jest",4,E-commerce
+EMP009,krishna.reddy@example.com,Krishna Reddy,IT,System Administrator,"Linux, Bash, Python","AWS, Docker, Ansible",9,Logistics
+EMP010,neha.roy@example.com,Neha Roy,Security,Security Engineer,"Go, Kubernetes, AWS","Kafka, Redis, Prometheus",6,FinTech
+EMP011,pooja.verma@example.com,Pooja Verma,Engineering,QA Engineer,"Selenium, Python, Java","Jenkins, Docker, SQL",5,Healthcare
+EMP012,priya.das@example.com,Priya Das,Data Science,ML Engineer,"Python, Scikit-learn, TensorFlow","Pandas, NumPy, Flask",3,AI Products
+EMP013,reyansh.chatterjee@example.com,Reyansh Chatterjee,Cloud Ops,Site Reliability Engineer,"Kubernetes, Go, Prometheus","Terraform, AWS, Linux",10,FinTech
+EMP014,riya.gupta@example.com,Riya Gupta,Engineering,Backend Developer,"Java, Spring Boot, Hibernate","Kafka, MySQL, Redis",6,Banking Systems
+EMP015,sai.iyer@example.com,Sai Iyer,Security,Security Analyst,"Python, AWS, Docker","ELK, CI/CD, Linux",4,Cybersecurity
+EMP016,sneha.sharma@example.com,Sneha Sharma,Data Science,Data Analyst,"SQL, Python, Tableau","Pandas, Excel, PowerBI",2,EdTech
+EMP017,aarav.banerjee@example.com,Aarav Banerjee,Engineering,Full Stack Developer,"React, Node.js, MongoDB","GraphQL, Docker, AWS",5,SaaS Platforms
+EMP018,vivaan.joshi@example.com,Vivaan Joshi,Cloud Ops,DevOps Engineer,"AWS, Jenkins, Docker","Kubernetes, Ansible, Prometheus",7,Telecom
+EMP019,aditya.kapoor@example.com,Aditya Kapoor,IT,Network Engineer,"Cisco, TCP/IP, BGP","Python, Linux, Firewalls",11,Telecom
+EMP020,ananya.nair@example.com,Ananya Nair,Engineering,Software Engineer,"Python, Django, PostgreSQL","Redis, Celery, Docker",4,Logistics
+EMP021,arjun.patel@example.com,Arjun Patel,Data Science,Data Scientist,"Python, Pandas, Scikit-learn","SQL, Matplotlib, AWS",5,Healthcare
+EMP022,diya.verma@example.com,Diya Verma,Security,Security Analyst,"AWS, Python, IAM","Kubernetes, Terraform, Linux",3,Cybersecurity
+EMP023,ishaan.reddy@example.com,Ishaan Reddy,Cloud Ops,Platform Engineer,"Kubernetes, Go, Terraform","Prometheus, Envoy, gRPC",6,FinTech
+EMP024,kavya.roy@example.com,Kavya Roy,Engineering,Frontend Developer,"React, Redux, JavaScript","CSS, Webpack, Jest",4,E-commerce
+EMP025,krishna.das@example.com,Krishna Das,IT,Database Administrator,"SQL, MySQL, PostgreSQL","Python, Backup, Replication",8,SaaS Platforms
+EMP026,neha.chatterjee@example.com,Neha Chatterjee,Data Science,ML Engineer,"Python, TensorFlow, Keras","Scikit-learn, Pandas, Flask",5,AI Products
+EMP027,pooja.iyer@example.com,Pooja Iyer,Security,Security Engineer,"Go, Kubernetes, AWS","Kafka, Redis, Prometheus",7,Banking Systems
+EMP028,priya.mehta@example.com,Priya Mehta,Engineering,Backend Developer,"Java, Spring Boot, Microservices","Kafka, Docker, AWS",6,FinTech
+EMP029,reyansh.sharma@example.com,Reyansh Sharma,Cloud Ops,Cloud Engineer,"Azure, Terraform, Kubernetes","Docker, Prometheus, Linux",5,Healthcare
+EMP030,riya.nair@example.com,Riya Nair,Engineering,QA Engineer,"Python, Pytest, Selenium","Jenkins, Docker, JIRA",3,EdTech
+EMP031,sai.banerjee@example.com,Sai Banerjee,Data Science,Data Scientist,"Python, R, SQL","Pandas, ggplot2, Shiny",7,Telecom
+EMP032,sneha.joshi@example.com,Sneha Joshi,Security,Security Analyst,"Python, AWS, CloudTrail","ELK, Lambda, GuardDuty",4,Cybersecurity
+EMP033,aarav.kapoor@example.com,Aarav Kapoor,Engineering,Software Engineer,"Node.js, Express, MongoDB","GraphQL, Docker, Redis",3,SaaS Platforms
+EMP034,vivaan.verma@example.com,Vivaan Verma,Cloud Ops,DevOps Engineer,"AWS, CI/CD, Docker","Kubernetes, Ansible, Python",6,E-commerce
+EMP035,aditya.das@example.com,Aditya Das,IT,System Administrator,"Linux, Bash, Ansible","Python, Docker, AWS",9,Logistics
+EMP036,ananya.patel@example.com,Ananya Patel,Data Science,ML Engineer,"Python, PyTorch, Transformers","Scikit-learn, Pandas, SQL",4,AI Products
+EMP037,arjun.roy@example.com,Arjun Roy,Engineering,Backend Developer,"Go, PostgreSQL, gRPC","Kafka, Redis, Docker",5,FinTech
+EMP038,diya.iyer@example.com,Diya Iyer,Security,Security Engineer,"AWS, IAM, Python","Kubernetes, Terraform, Linux",6,Healthcare
+EMP039,ishaan.gupta@example.com,Ishaan Gupta,Cloud Ops,Site Reliability Engineer,"Kubernetes, Prometheus, Grafana","Terraform, Go, AWS",8,Telecom
+EMP040,kavya.nair@example.com,Kavya Nair,Engineering,Frontend Developer,"React, Vue.js, TypeScript","CSS, Webpack, Jest",4,E-commerce
+EMP041,krishna.sharma@example.com,Krishna Sharma,IT,Network Engineer,"Cisco, OSPF, BGP","Python, Linux, Firewalls",10,Telecom
+EMP042,neha.patel@example.com,Neha Patel,Data Science,Data Analyst,"SQL, Python, Tableau","Pandas, Excel, PowerBI",3,FinTech
+EMP043,pooja.reddy@example.com,Pooja Reddy,Security,Security Analyst,"Python, AWS, GuardDuty","ELK, Lambda, CI/CD",5,Cybersecurity
+EMP044,priya.banerjee@example.com,Priya Banerjee,Engineering,Backend Developer,"Java, Spring Boot, MySQL","Kafka, Redis, Hibernate",6,Banking Systems
+EMP045,reyansh.iyer@example.com,Reyansh Iyer,Cloud Ops,Cloud Engineer,"AWS, Terraform, Docker","Kubernetes, Ansible, Python",5,SaaS Platforms
+EMP046,riya.joshi@example.com,Riya Joshi,Engineering,QA Engineer,"Selenium, Java, TestNG","Jenkins, Maven, Git",4,Healthcare
+EMP047,sai.kapoor@example.com,Sai Kapoor,Data Science,ML Engineer,"Python, TensorFlow, Scikit-learn","Pandas, NumPy, Flask",6,AI Products
+EMP048,sneha.verma@example.com,Sneha Verma,Security,Security Engineer,"Go, Kubernetes, AWS","Kafka, Redis, Prometheus",7,FinTech
+EMP049,aarav.mehta@example.com,Aarav Mehta,Engineering,Software Engineer,"Python, Django, PostgreSQL","Redis, Celery, Docker",4,EdTech
+EMP050,vivaan.chatterjee@example.com,Vivaan Chatterjee,Cloud Ops,DevOps Engineer,"AWS, Jenkins, Terraform","Kubernetes, Prometheus, Linux",6,Telecom
+EMP051,aditya.nair@example.com,Aditya Nair,IT,Database Administrator,"SQL, PostgreSQL, MongoDB","Python, Backup, Replication",7,SaaS Platforms
+EMP052,ananya.das@example.com,Ananya Das,Data Science,Data Scientist,"Python, Pandas, Scikit-learn","SQL, Matplotlib, AWS",5,Healthcare
+EMP053,arjun.iyer@example.com,Arjun Iyer,Security,Security Analyst,"Python, AWS, CloudFormation","ELK, Lambda, IAM",4,Cybersecurity
+EMP054,diya.kapoor@example.com,Diya Kapoor,Engineering,Frontend Developer,"React, TypeScript, Redux","GraphQL, CSS, Jest",5,E-commerce
+EMP055,ishaan.sharma@example.com,Ishaan Sharma,Cloud Ops,Platform Engineer,"Kubernetes, Go, Envoy","Prometheus, Terraform, gRPC",7,FinTech
+EMP056,kavya.gupta@example.com,Kavya Gupta,Engineering,Backend Developer,"Java, Spring Boot, Microservices","Kafka, Docker, AWS",6,Logistics
+EMP057,krishna.banerjee@example.com,Krishna Banerjee,IT,System Administrator,"Linux, Bash, Puppet","Python, Docker, AWS",8,Telecom
+EMP058,neha.reddy@example.com,Neha Reddy,Data Science,ML Engineer,"Python, PyTorch, Transformers","Scikit-learn, Pandas, SQL",5,AI Products
+EMP059,pooja.roy@example.com,Pooja Roy,Security,Security Engineer,"AWS, IAM, Python","Kubernetes, Terraform, Linux",6,Banking Systems
+EMP060,priya.patel@example.com,Priya Patel,Engineering,QA Engineer,"Python, Pytest, Selenium","Jenkins, Docker, JIRA",3,Healthcare
+EMP061,reyansh.verma@example.com,Reyansh Verma,Cloud Ops,Cloud Engineer,"Azure, Terraform, Kubernetes","Docker, Prometheus, Linux",5,EdTech
+EMP062,riya.das@example.com,Riya Das,Engineering,Software Engineer,"Node.js, Express, MongoDB","GraphQL, Docker, Redis",4,SaaS Platforms
+EMP063,sai.joshi@example.com,Sai Joshi,Data Science,Data Analyst,"SQL, Python, PowerBI","Pandas, Excel, Tableau",2,FinTech
+EMP064,sneha.iyer@example.com,Sneha Iyer,Security,Security Analyst,"Python, AWS, CloudTrail","ELK, Lambda, GuardDuty",4,Cybersecurity
+EMP065,aarav.nair@example.com,Aarav Nair,Engineering,Backend Developer,"Go, PostgreSQL, gRPC","Kafka, Redis, Docker",5,FinTech
+EMP066,vivaan.kapoor@example.com,Vivaan Kapoor,Cloud Ops,DevOps Engineer,"AWS, CI/CD, Docker","Kubernetes, Ansible, Python",6,E-commerce
+EMP067,aditya.patel@example.com,Aditya Patel,IT,Network Engineer,"Cisco, TCP/IP, BGP","Python, Linux, Firewalls",9,Telecom
+EMP068,ananya.sharma@example.com,Ananya Sharma,Data Science,Data Scientist,"Python, R, SQL","Pandas, ggplot2, Shiny",6,Healthcare
+EMP069,arjun.mehta@example.com,Arjun Mehta,Security,Security Engineer,"Go, Kubernetes, AWS","Kafka, Redis, Prometheus",7,FinTech
+EMP070,diya.nair@example.com,Diya Nair,Engineering,Frontend Developer,"React, Redux, JavaScript","CSS, Webpack, Jest",4,E-commerce
+EMP071,ishaan.banerjee@example.com,Ishaan Banerjee,Cloud Ops,Site Reliability Engineer,"Kubernetes, Prometheus, Grafana","Terraform, Go, AWS",8,Telecom
+EMP072,kavya.iyer@example.com,Kavya Iyer,Engineering,Backend Developer,"Java, Spring Boot, Hibernate","Kafka, MySQL, Redis",6,Banking Systems
+EMP073,krishna.patel@example.com,Krishna Patel,IT,Database Administrator,"SQL, MySQL, PostgreSQL","Python, Backup, Replication",8,SaaS Platforms
+EMP074,neha.verma@example.com,Neha Verma,Data Science,ML Engineer,"Python, TensorFlow, Keras","Scikit-learn, Pandas, Flask",5,AI Products
+EMP075,pooja.chatterjee@example.com,Pooja Chatterjee,Security,Security Analyst,"Python, AWS, Docker","ELK, CI/CD, Linux",4,Cybersecurity
+EMP076,priya.nair@example.com,Priya Nair,Engineering,Software Engineer,"React, Node.js, JavaScript","GraphQL, Docker, Redis",3,EdTech
+EMP077,reyansh.das@example.com,Reyansh Das,Cloud Ops,Cloud Engineer,"AWS, Terraform, Docker","Kubernetes, Ansible, Python",5,SaaS Platforms
+EMP078,riya.sharma@example.com,Riya Sharma,Engineering,QA Engineer,"Selenium, Java, TestNG","Jenkins, Maven, Git",4,Healthcare
+EMP079,sai.mehta@example.com,Sai Mehta,Data Science,Data Scientist,"Python, Pandas, Scikit-learn","SQL, Matplotlib, AWS",5,FinTech
+EMP080,sneha.kapoor@example.com,Sneha Kapoor,Security,Security Engineer,"Go, Kubernetes, AWS","Kafka, Redis, Prometheus",7,Banking Systems
+EMP081,aarav.roy@example.com,Aarav Roy,Engineering,Backend Developer,"Node.js, Express, MongoDB","GraphQL, Docker, Redis",4,Logistics
+EMP082,vivaan.das@example.com,Vivaan Das,Cloud Ops,DevOps Engineer,"AWS, Jenkins, Docker","Kubernetes, Ansible, Prometheus",6,Telecom
+EMP083,aditya.verma@example.com,Aditya Verma,IT,System Administrator,"Linux, Bash, Ansible","Python, Docker, AWS",8,E-commerce
+EMP084,ananya.roy@example.com,Ananya Roy,Data Science,ML Engineer,"Python, PyTorch, Transformers","Scikit-learn, Pandas, SQL",4,AI Products
+EMP085,arjun.gupta@example.com,Arjun Gupta,Security,Security Analyst,"Python, AWS, CloudFormation","ELK, Lambda, IAM",5,Cybersecurity
+EMP086,diya.patel@example.com,Diya Patel,Engineering,Frontend Developer,"React, TypeScript, Redux","GraphQL, CSS, Jest",5,E-commerce
+EMP087,ishaan.iyer@example.com,Ishaan Iyer,Cloud Ops,Platform Engineer,"Kubernetes, Go, Envoy","Prometheus, Terraform, gRPC",7,FinTech
+EMP088,kavya.banerjee@example.com,Kavya Banerjee,Engineering,Backend Developer,"Java, Spring Boot, Microservices","Kafka, Docker, AWS",6,Healthcare
+EMP089,krishna.roy@example.com,Krishna Roy,IT,Network Engineer,"Cisco, OSPF, BGP","Python, Linux, Firewalls",10,Telecom
+EMP090,neha.iyer@example.com,Neha Iyer,Data Science,Data Analyst,"SQL, Python, Tableau","Pandas, Excel, PowerBI",3,EdTech
+EMP091,pooja.sharma@example.com,Pooja Sharma,Security,Security Engineer,"AWS, IAM, Python","Kubernetes, Terraform, Linux",6,Banking Systems
+EMP092,priya.joshi@example.com,Priya Joshi,Engineering,QA Engineer,"Python, Pytest, Selenium","Jenkins, Docker, JIRA",3,Healthcare
+EMP093,reyansh.nair@example.com,Reyansh Nair,Cloud Ops,Cloud Engineer,"Azure, Terraform, Kubernetes","Docker, Prometheus, Linux",5,SaaS Platforms
+EMP094,riya.kapoor@example.com,Riya Kapoor,Engineering,Software Engineer,"Python, Django, PostgreSQL","Redis, Celery, Docker",4,Logistics
+EMP095,sai.verma@example.com,Sai Verma,Data Science,Data Scientist,"Python, R, SQL","Pandas, ggplot2, Shiny",7,Telecom
+EMP096,sneha.patel@example.com,Sneha Patel,Security,Security Analyst,"Python, AWS, GuardDuty","ELK, Lambda, CI/CD",5,Cybersecurity
+EMP097,aarav.joshi@example.com,Aarav Joshi,Engineering,Backend Developer,"Go, PostgreSQL, gRPC","Kafka, Redis, Docker",5,FinTech
+EMP098,vivaan.nair@example.com,Vivaan Nair,Cloud Ops,DevOps Engineer,"AWS, CI/CD, Docker","Kubernetes, Ansible, Python",6,E-commerce
+EMP099,aditya.chatterjee@example.com,Aditya Chatterjee,IT,Database Administrator,"SQL, PostgreSQL, MongoDB","Python, Backup, Replication",7,SaaS Platforms
+EMP100,ananya.verma@example.com,Ananya Verma,Data Science,ML Engineer,"Python, TensorFlow, Scikit-learn","Pandas, NumPy, Flask",6,AI Products
+EMP101,arjun.sharma@example.com,Arjun Sharma,Security,Security Engineer,"Go, Kubernetes, AWS","Kafka, Redis, Prometheus",7,FinTech
+EMP102,diya.reddy@example.com,Diya Reddy,Engineering,Frontend Developer,"React, Vue.js, TypeScript","CSS, Webpack, Jest",4,E-commerce
+EMP103,ishaan.patel@example.com,Ishaan Patel,Cloud Ops,Site Reliability Engineer,"Kubernetes, Prometheus, Grafana","Terraform, Go, AWS",8,Telecom
+EMP104,kavya.verma@example.com,Kavya Verma,Engineering,Backend Developer,"Java, Spring Boot, MySQL","Kafka, Redis, Hibernate",6,Banking Systems
+EMP105,krishna.iyer@example.com,Krishna Iyer,IT,System Administrator,"Linux, Bash, Puppet","Python, Docker, AWS",8,EdTech
+EMP106,neha.banerjee@example.com,Neha Banerjee,Data Science,Data Scientist,"Python, Pandas, Scikit-learn","SQL, Matplotlib, AWS",5,Healthcare
+EMP107,pooja.gupta@example.com,Pooja Gupta,Security,Security Analyst,"Python, AWS, CloudTrail","ELK, Lambda, GuardDuty",4,Cybersecurity
+EMP108,priya.verma@example.com,Priya Verma,Engineering,Software Engineer,"Node.js, Express, MongoDB","GraphQL, Docker, Redis",3,SaaS Platforms
+EMP109,reyansh.patel@example.com,Reyansh Patel,Cloud Ops,Cloud Engineer,"AWS, Terraform, Docker","Kubernetes, Ansible, Python",5,FinTech
+EMP110,riya.banerjee@example.com,Riya Banerjee,Engineering,QA Engineer,"Selenium, Java, TestNG","Jenkins, Maven, Git",4,Healthcare
+EMP111,sai.nair@example.com,Sai Nair,Data Science,ML Engineer,"Python, PyTorch, Transformers","Scikit-learn, Pandas, SQL",5,AI Products
+EMP112,sneha.das@example.com,Sneha Das,Security,Security Engineer,"AWS, IAM, Python","Kubernetes, Terraform, Linux",6,Banking Systems
+EMP113,aarav.iyer@example.com,Aarav Iyer,Engineering,Backend Developer,"Java, Spring Boot, Microservices","Kafka, Docker, AWS",6,Logistics
+EMP114,vivaan.reddy@example.com,Vivaan Reddy,Cloud Ops,DevOps Engineer,"AWS, Jenkins, Terraform","Kubernetes, Prometheus, Linux",6,Telecom
+EMP115,aditya.roy@example.com,Aditya Roy,IT,Network Engineer,"Cisco, TCP/IP, BGP","Python, Linux, Firewalls",9,Telecom
+EMP116,ananya.kapoor@example.com,Ananya Kapoor,Data Science,Data Analyst,"SQL, Python, PowerBI","Pandas, Excel, Tableau",2,EdTech
+EMP117,arjun.das@example.com,Arjun Das,Security,Security Analyst,"Python, AWS, CloudFormation","ELK, Lambda, IAM",4,Cybersecurity
+EMP118,diya.sharma@example.com,Diya Sharma,Engineering,Frontend Developer,"React, Redux, JavaScript","CSS, Webpack, Jest",4,E-commerce
+EMP119,ishaan.roy@example.com,Ishaan Roy,Cloud Ops,Platform Engineer,"Kubernetes, Go, Envoy","Prometheus, Terraform, gRPC",7,FinTech
+EMP120,kavya.joshi@example.com,Kavya Joshi,Engineering,Backend Developer,"Go, PostgreSQL, gRPC","Kafka, Redis, Docker",5,FinTech
+EMP121,krishna.chatterjee@example.com,Krishna Chatterjee,IT,Database Administrator,"SQL, MySQL, PostgreSQL","Python, Backup, Replication",8,SaaS Platforms
+EMP122,neha.patel@example.com,Neha Patel,Data Science,Data Scientist,"Python, R, SQL","Pandas, ggplot2, Shiny",6,Healthcare
+EMP123,pooja.iyer@example.com,Pooja Iyer,Security,Security Engineer,"Go, Kubernetes, AWS","Kafka, Redis, Prometheus",7,FinTech
+EMP124,priya.das@example.com,Priya Das,Engineering,QA Engineer,"Python, Pytest, Selenium","Jenkins, Docker, JIRA",3,Healthcare
+EMP125,reyansh.gupta@example.com,Reyansh Gupta,Cloud Ops,Cloud Engineer,"Azure, Terraform, Kubernetes","Docker, Prometheus, Linux",5,SaaS Platforms
+EMP126,riya.nair@example.com,Riya Nair,Engineering,Software Engineer,"Python, Django, PostgreSQL","Redis, Celery, Docker",4,Logistics
+EMP127,sai.sharma@example.com,Sai Sharma,Data Science,ML Engineer,"Python, TensorFlow, Keras","Scikit-learn, Pandas, Flask",5,AI Products
+EMP128,sneha.roy@example.com,Sneha Roy,Security,Security Analyst,"Python, AWS, GuardDuty","ELK, Lambda, CI/CD",5,Cybersecurity
+EMP129,aarav.verma@example.com,Aarav Verma,Engineering,Backend Developer,"Node.js, Express, MongoDB","GraphQL, Docker, Redis",4,EdTech
+EMP130,vivaan.banerjee@example.com,Vivaan Banerjee,Cloud Ops,DevOps Engineer,"AWS, CI/CD, Docker","Kubernetes, Ansible, Python",6,E-commerce
+EMP131,aditya.iyer@example.com,Aditya Iyer,IT,System Administrator,"Linux, Bash, Ansible","Python, Docker, AWS",8,Telecom
+EMP132,ananya.gupta@example.com,Ananya Gupta,Data Science,Data Scientist,"Python, Pandas, Scikit-learn","SQL, Matplotlib, AWS",5,FinTech
+EMP133,arjun.verma@example.com,Arjun Verma,Security,Security Engineer,"AWS, IAM, Python","Kubernetes, Terraform, Linux",6,Banking Systems
+EMP134,diya.banerjee@example.com,Diya Banerjee,Engineering,Frontend Developer,"React, TypeScript, Redux","GraphQL, CSS, Jest",5,E-commerce
+EMP135,ishaan.kapoor@example.com,Ishaan Kapoor,Cloud Ops,Site Reliability Engineer,"Kubernetes, Prometheus, Grafana","Terraform, Go, AWS",8,Telecom
+EMP136,kavya.sharma@example.com,Kavya Sharma,Engineering,Backend Developer,"Java, Spring Boot, Hibernate","Kafka, MySQL, Redis",6,Banking Systems
+EMP137,krishna.nair@example.com,Krishna Nair,IT,Network Engineer,"Cisco, OSPF, BGP","Python, Linux, Firewalls",10,Telecom
+EMP138,neha.das@example.com,Neha Das,Data Science,ML Engineer,"Python, PyTorch, Transformers","Scikit-learn, Pandas, SQL",4,AI Products
+EMP139,pooja.banerjee@example.com,Pooja Banerjee,Security,Security Analyst,"Python, AWS, CloudTrail","ELK, Lambda, GuardDuty",4,Cybersecurity
+EMP140,priya.chatterjee@example.com,Priya Chatterjee,Engineering,QA Engineer,"Selenium, Java, TestNG","Jenkins, Maven, Git",4,Healthcare
+EMP141,reyansh.iyer@example.com,Reyansh Iyer,Cloud Ops,Cloud Engineer,"AWS, Terraform, Docker","Kubernetes, Ansible, Python",5,SaaS Platforms
+EMP142,riya.patel@example.com,Riya Patel,Engineering,Software Engineer,"React, Node.js, JavaScript","GraphQL, Docker, Redis",3,EdTech
+EMP143,sai.roy@example.com,Sai Roy,Data Science,Data Analyst,"SQL, Python, Tableau","Pandas, Excel, PowerBI",3,FinTech
+EMP144,sneha.iyer@example.com,Sneha Iyer,Security,Security Engineer,"Go, Kubernetes, AWS","Kafka, Redis, Prometheus",7,Banking Systems
+EMP145,aarav.das@example.com,Aarav Das,Engineering,Backend Developer,"Go, PostgreSQL, gRPC","Kafka, Redis, Docker",5,FinTech
+EMP146,vivaan.patel@example.com,Vivaan Patel,Cloud Ops,DevOps Engineer,"AWS, Jenkins, Docker","Kubernetes, Ansible, Prometheus",6,Telecom
+EMP147,aditya.sharma@example.com,Aditya Sharma,IT,Database Administrator,"SQL, PostgreSQL, MongoDB","Python, Backup, Replication",7,SaaS Platforms
+EMP148,ananya.nair@example.com,Ananya Nair,Data Science,Data Scientist,"Python, R, SQL","Pandas, ggplot2, Shiny",7,Healthcare
+EMP149,arjun.chatterjee@example.com,Arjun Chatterjee,Security,Security Engineer,"AWS, IAM, Python","Kubernetes, Terraform, Linux",6,Banking Systems
+EMP150,diya.roy@example.com,Diya Roy,Engineering,Frontend Developer,"React, Vue.js, TypeScript","CSS, Webpack, Jest",4,E-commerce
